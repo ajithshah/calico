@@ -1,5 +1,5 @@
 ---
-title: About Calico
+title: about Calico
 description: The value of using Calico for networking and network security for workloads and hosts.
 show_title: false
 canonical_url: '/about/about-calico'
